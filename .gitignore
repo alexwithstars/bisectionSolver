@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+bin/
+obj/
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+
+# Build results
+Debug/
+Release/
+x86/
+x64/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Local environment
+.env
+.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Test results
+TestResults/
+*.trx
+
