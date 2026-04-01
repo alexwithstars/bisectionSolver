@@ -44,4 +44,4 @@ If you want to build first:
 dotnet build
 dotnet run
 ```
-> AI-assisted generated README, reviewed and edited by @alexwithstars.
+> AI-assisted generated README, reviewed and edited by [@alexwithstars](https://github.com/alexwithstars).
